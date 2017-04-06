@@ -1,0 +1,2 @@
+# datamining
+HSE minor course
