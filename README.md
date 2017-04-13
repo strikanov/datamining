@@ -1,2 +1,2 @@
 # datamining
-HSE minor course
+HSE \ Yandex
