@@ -1,2 +1,2 @@
 # datamining
-HSE \ Yandex
+Yandex \ HSE
